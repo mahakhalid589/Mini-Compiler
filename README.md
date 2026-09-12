@@ -1,5 +1,5 @@
 # Mini Compiler
-A simple mini compiler built using **Lex (Flex)** and **Yacc (Bison)** in C. It performs lexical analysis and parsing for basic arithmetic expressions and variable declarations/assignments.
+A mini compiler project developed using C++. It performs lexical analysis and parsing for basic arithmetic expressions and variable declarations/assignments, demonstrating fundamental concepts of compiler design.
 ## Features
 - Variable declaration (`int x;`)
 - Variable assignment (`x = 10;`)
